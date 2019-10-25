@@ -14,5 +14,6 @@ int main(int argc, char **argv)
 
     printf("Hello, %s %s!\n", first, last);
 	printf("Enter my 5 cop");
+	printf("This is the second coming");
     return 0;
 }
